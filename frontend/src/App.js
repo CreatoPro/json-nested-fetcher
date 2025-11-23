@@ -3,7 +3,7 @@ import axios from "axios";
 import TagView from "./components/TagView";
 import "./App.css";
 
-const API_BASE_URL = "http://localhost:8000/api";
+const API_BASE_URL = "https://json-nested-fetcher-xwkn.vercel.app/api";
 
 function App() {
   const [trees, setTrees] = useState([]);

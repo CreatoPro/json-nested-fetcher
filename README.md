@@ -2,7 +2,7 @@
 
 A full-stack web application for managing nested tags trees with React frontend and FastAPI backend.
 
-## Features
+## Features 
 
 - **Nested Tags Tree UI**: Visual representation of hierarchical tag structures
 - **Editable Data Fields**: Modify data for each tag node

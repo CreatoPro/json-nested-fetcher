@@ -71,7 +71,7 @@ function App() {
         </button>
       </header>
 
-      {error && <div className="error-message">{error}</div>}
+      {/* {error && <div className="error-message">{error}</div>} */}
 
       {trees.length === 0 ? (
         <div className="empty-state">
